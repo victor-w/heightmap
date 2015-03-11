@@ -1,3 +1,3 @@
 # heightmap
 
-Heightmap editor in elm
+2D heightmap editor in elm
